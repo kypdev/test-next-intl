@@ -1,0 +1,14 @@
+{
+  "Index": {
+    "title": "Hello world!",
+    "about_us": "About us",
+    "service": "Service"
+  },
+  "AboutUs": {
+    "title": "About Us",
+    "address": "Address"
+  },
+  "Service": {
+    "title": "Service"
+  }
+}
