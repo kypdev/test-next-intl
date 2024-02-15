@@ -10,5 +10,9 @@
   },
   "Service": {
     "title": "บริการ"
+  },
+  "LocaleSwitcher": {
+    "label": "เปลี่ยนภาษา",
+    "locale": "{locale, select, th {ไทย} en {อังกฤษ} other {Unknown}}"
   }
 }

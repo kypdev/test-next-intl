@@ -1,6 +1,8 @@
 import ExampleClientComponent from '@/components/ExampleClientComponent'
 import Link from 'next/link'
 import { useTranslations } from 'next-intl'
+import Navigation from '@/components/Navigation'
+import LocaleSwitcher from '@/components/LocaleSwitcher'
 
 export default function Home() {
   const t = useTranslations('Index')
